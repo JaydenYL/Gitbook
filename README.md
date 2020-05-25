@@ -14,5 +14,5 @@
 
 <br>
 
-![mweo](resource/IMG_4377.GIF)
+![](resource/IMG_4377.GIF)
 
