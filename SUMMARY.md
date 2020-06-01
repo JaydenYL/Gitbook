@@ -1,6 +1,8 @@
 # Table of contents
 
 * [DIARY](README.md)
+* [JUNE](june/README.md)
+  * [06-02 TUE](june/06-02-tue.md)
 * [MAY](may/README.md)
   * [05-26 TUE](may/05-26-tue.md)
   * [05-21 THU](may/5-21-thu.md)
