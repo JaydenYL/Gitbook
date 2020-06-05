@@ -1,35 +1,4 @@
-# 06-05 THU
-
-心血来潮，写写Latex。
-
-![image.png](https://i.loli.net/2020/06/05/i2qd3JvwWk56tAP.png)
-
-**16 题.**
-
-<img src="https://i.loli.net/2020/06/06/p7ZsaYPMdiOu1WB.png" alt="draft.png" style="zoom:150%;" />
-
----
-
-<br>
-
-发现自己真的是东亚做题家，兴趣爱好就只有打游戏和刷题，社交一塌糊涂。成就感仅仅来自于做题和打游戏吧，嗯。
-
-<br>
-
----
-
-<br>
-
-#### **附**
-
-
-
-> Github的markdown解析是通过SunDown库实现的。这个库的宗旨就是*"Standards compliant, fast,***secure**markdown processing library in C"。
-
-<br>由于GitHub的Markdown解释器不支持LATEX，遂上传图片，源码如下：
-
-```Latex 
-设线段  $ AB $  长度为  $ a $   ，易得：
+设线段  $ AB$  长度为  $ a $   ，易得：
 
 $ AC = \sqrt{2} $  ，  $ BM = \frac{\sqrt{5}}{3}a $ ，   $ DM = BD - BM = 5 - \frac{\sqrt{5}}{3}a $ ，  $ \sin{\angle{ABD}} = \frac{\sqrt{5}}{5} $ 
 
@@ -68,5 +37,4 @@ $S_{ \bigtriangleup{ACD}} \leq \frac{9}{10} \times \frac{(\frac{\sqrt{5}}{3}a + 
 
 
 综上，当  $AB = \frac{3\sqrt{5}}{2}$  时， $S_{ \bigtriangleup{ACD}}$  面积最大为 $\frac{45}{8}$ 
-```
 
