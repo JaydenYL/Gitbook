@@ -2,6 +2,7 @@
 
 * [DIARY](README.md)
 * [JUNE](june/README.md)
+  * [06-04 FRI](june/06-04-fri.md)
   * [06-02 TUE](june/06-02-tue.md)
 * [MAY](may/README.md)
   * [05-26 TUE](may/05-26-tue.md)
