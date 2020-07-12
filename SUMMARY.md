@@ -1,4 +1,4 @@
-# Table of contents
+# DIARY
 
 * [DIARY](README.md)
 * [JULY](july/README.md)
