@@ -1,6 +1,8 @@
 # Table of contents
 
 * [DIARY](README.md)
+* [AUGUST](august/README.md)
+  * [08-02 SUN](august/08-02-sun.md)
 * [JULY](july/README.md)
   * [07-29 WED](july/07-29-wed.md)
   * [07-28 TUE](july/07-28-tue.md)
