@@ -2,6 +2,7 @@
 
 * [DIARY](README.md)
 * [AUGUST](august/README.md)
+  * [08-17 MON](august/08-17-mon.md)
   * [08-16 SUN](august/08-16-sun.md)
   * [08-08 SAT](august/08-08-sat.md)
   * [08-02 SUN](august/08-02-sun.md)
