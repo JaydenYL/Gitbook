@@ -1,4 +1,4 @@
-# DIARY
+# LIFE OF AN IDIOT
 
 ## I
 
