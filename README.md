@@ -1,7 +1,3 @@
----
-description: 某傻子的一生
----
-
 # LIFE OF AN IDIOT
 
 ## I
