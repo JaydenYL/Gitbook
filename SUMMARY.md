@@ -1,6 +1,6 @@
 # Table of contents
 
-* [傻子的一生](README.md)
+* [某傻子的一生](README.md)
 * [九月](september/README.md)
   * [Untitled](september/untitled.md)
 * [八月](august/README.md)
