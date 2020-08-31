@@ -1,8 +1,6 @@
 ---
-description: 北半球夏天的尾巴
+description: 记忆中的夏天，是我唯一的情人。
 ---
 
 # AUGUST
-
-记忆中的夏天，是我唯一的情人。
 
