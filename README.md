@@ -1,8 +1,4 @@
----
-description: LIFE OF AN IDIOT
----
-
-# 傻子的一生
+# LIFE OF AN IDIOT
 
 ## I
 
