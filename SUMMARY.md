@@ -2,6 +2,7 @@
 
 * [某傻子的一生](README.md)
 * [九月](september/README.md)
+  * [09-03 THU](september/09-03-thu.md)
   * [09-02 WED](september/09-02-wed.md)
   * [09-01 TUE](september/09-01-tue.md)
 * [八月](august/README.md)
