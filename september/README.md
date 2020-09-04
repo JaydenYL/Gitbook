@@ -6,7 +6,7 @@
 
 > 现代人总是活在平静的绝望当中。
 >
-> ——梭罗
+> ——梭罗 《瓦尔登湖》
 
 _当时这句话让我觉得触目惊心，这就如论坛上很火的那个什么“细思极恐”的问题。这句话原文是：The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation. 后面一句徐迟先生的翻译是“所谓听天由命，不过是习以为常的绝望”。紧接着，梭罗又说：“ A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work. But it is a characteristic of wisdom not to do desperate things.” “在人类的所谓游戏与消遣底下，甚至都隐藏着一种凝固的、不知又不觉的绝望。两者中都没有娱乐可言，因为工作之后才能娱乐。可是不做绝望的事，才是智慧的一种表征。”这句话我有体会，如果你干一件你喜欢的事情，是不需要之后的娱乐来抚慰你疲惫的身心的，因为你干的这件事本身就是你的娱乐。比如我去健身房锻炼，很累，但我觉得这就是娱乐；还有我回老家山上种树，或者花上一整天给树松土、施肥，我并不觉得累。而我在办公室做完一天的工作，就需要看点花边新闻、或者下点毛片这些要么不动脑子，要么只动脑子享乐的那部分来将大脑调至平衡模式。_
 
