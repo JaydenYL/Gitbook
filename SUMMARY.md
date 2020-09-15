@@ -6,6 +6,7 @@
   * [09-14 MON](september/09-14-mon.md)
   * [09-13 SUN](september/09-13-sun.md)
   * [09-12 SAT](september/09-12-sat.md)
+  * [09-11 FRI](september/09-11-fri.md)
   * [09-10 THU](september/09-10-thu.md)
   * [09-09 WED](september/09-09-wed.md)
   * [09-08 TUE](september/09-08-tue.md)
