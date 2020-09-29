@@ -2,6 +2,7 @@
 
 * [某傻子的一生](README.md)
 * [九月](september/README.md)
+  * [09-29 TUE](september/09-29-tue.md)
   * [09-27 SUN](september/09-27-sun.md)
   * [09-23 WED](september/09-23-wed.md)
   * [09-18 FRI](september/09-18-fri.md)
