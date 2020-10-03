@@ -10,6 +10,7 @@
   * [09-27 SUN](september/09-27-sun.md)
   * [09-23 WED](september/09-23-wed.md)
   * [09-18 FRI](september/09-18-fri.md)
+  * [09-16 WED](september/09-16-wed.md)
   * [09-15 TUE](september/09-15-tue.md)
   * [09-14 MON](september/09-14-mon.md)
   * [09-13 SUN](september/09-13-sun.md)
