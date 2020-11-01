@@ -3,7 +3,7 @@
 * [某傻子的一生](README.md)
 * [十月](shi-yue/README.md)
   * [10-21 WED](shi-yue/10-21-wed.md)
-  * [10-01 THU](shi-yue/10-01-thu.md)
+  * [10-02 FRI](shi-yue/10-02-fri.md)
 * [九月](september/README.md)
   * [09-30 WED](september/09-30-wed.md)
   * [09-29 TUE](september/09-29-tue.md)
