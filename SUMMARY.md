@@ -2,6 +2,7 @@
 
 * [某傻子的一生](README.md)
 * [十一月](shi-yi-yue/README.md)
+  * [11-04 SAT](shi-yi-yue/11-04-sat.md)
   * [11-05 THU](shi-yi-yue/11-05-thu.md)
   * [11-04 WED](shi-yi-yue/11-04-wed.md)
   * [11-03 TUE](shi-yi-yue/11-03-tue.md)
