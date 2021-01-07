@@ -1,6 +1,8 @@
 # Table of contents
 
 * [某傻子的一生](README.md)
+* [一月](yi-yue/README.md)
+  * [01-08 FRI](yi-yue/01-08-fri.md)
 * [十一月](shi-yi-yue/README.md)
   * [11-04 SAT](shi-yi-yue/11-04-sat.md)
   * [11-05 THU](shi-yi-yue/11-05-thu.md)
