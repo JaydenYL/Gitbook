@@ -2,6 +2,7 @@
 
 * [某傻子的一生](README.md)
 * [二月](er-yue/README.md)
+  * [02-08 MON](er-yue/02-08-mon.md)
   * [02-02 TUE](er-yue/02-02-tue.md)
 * [一月](yi-yue/README.md)
   * [01-30 SAT](yi-yue/01-30-sat.md)
