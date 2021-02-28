@@ -102,6 +102,5 @@
     * [04-30 THU](2021-er-ling-er-yi/april/4-30-thu.md)
     * [04-29 WED](2021-er-ling-er-yi/april/4-29-wed-1.md)
     * [04-28 TUE](2021-er-ling-er-yi/april/4-28-tue.md)
-* [番外](earlier/README.md)
-  * [Untitled](earlier/untitled.md)
+* [番外](earlier.md)
 
