@@ -9,6 +9,7 @@
     * [02-26 FRI](2021/february/02-26-fri.md)
     * [02-10 WED](2021/february/02-10-wed.md)
     * [02-08 MON](2021/february/02-08-mon.md)
+    * [02-06 SAT](2021/february/02-06-sat.md)
     * [02-05 FRI](2021/february/02-05-fri.md)
     * [02-02 TUE](2021/february/02-02-tue.md)
   * [一月](2021/january/README.md)
