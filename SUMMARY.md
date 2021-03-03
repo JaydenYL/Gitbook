@@ -3,6 +3,7 @@
 * [某傻子的一生](README.md)
 * [二〇二一](2021/README.md)
   * [三月](2021/march/README.md)
+    * [03-WED](2021/march/03-wed.md)
     * [01-MON](2021/march/01-mon.md)
   * [二月](2021/february/README.md)
     * [02-28 SUN](2021/february/02-28-sun.md)
