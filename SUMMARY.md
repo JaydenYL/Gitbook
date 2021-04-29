@@ -2,6 +2,8 @@
 
 * [某傻子的一生](README.md)
 * [二〇二一](2021/README.md)
+  * [四月](2021/si-yue/README.md)
+    * [04-29 THU](2021/si-yue/04-29-thu.md)
   * [三月](2021/march/README.md)
     * [03-29 MON](2021/march/03-29-mon.md)
     * [03-22 MON](2021/march/03-22-mon.md)
