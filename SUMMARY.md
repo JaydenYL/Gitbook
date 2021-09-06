@@ -2,6 +2,8 @@
 
 * [某傻子的一生](README.md)
 * [二〇二一](2021/README.md)
+  * [九月](2021/jiu-yue/README.md)
+    * [09-06 MON](2021/jiu-yue/09-06-mon.md)
   * [八月](2021/ba-yue/README.md)
     * [08-21 SAT](2021/ba-yue/08-21-sat.md)
     * [08-20 FRI](2021/ba-yue/08-20-fri.md)
