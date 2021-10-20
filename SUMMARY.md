@@ -2,6 +2,8 @@
 
 * [某傻子的一生](README.md)
 * [二〇二一](2021/README.md)
+  * [十月](2021/shi-yue/README.md)
+    * [10-21 THU](2021/shi-yue/10-21-thu.md)
   * [九月](2021/jiu-yue/README.md)
     * [09-08 WED](2021/jiu-yue/09-08-wed.md)
     * [09-06 MON](2021/jiu-yue/09-06-mon.md)
@@ -129,4 +131,3 @@
     * [04-29 WED](2020/april/4-29-wed-1.md)
     * [04-28 TUE](2020/april/4-28-tue.md)
 * [番外](earlier.md)
-
