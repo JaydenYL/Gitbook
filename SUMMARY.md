@@ -1,6 +1,10 @@
 # Table of contents
 
 * [某傻子的一生](README.md)
+* [二〇二二](er-ling-er-er/README.md)
+  * [二月](er-ling-er-er/er-yue/README.md)
+    * [02-03 THU](er-ling-er-er/er-yue/02-03-thu.md)
+  * [一月](er-ling-er-er/yi-yue.md)
 * [二〇二一](2021/README.md)
   * [十二月](2021/shi-er-yue/README.md)
     * [12-09](2021/shi-er-yue/12-09.md)
