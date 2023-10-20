@@ -2,6 +2,8 @@
 
 * [某傻子的一生](README.md)
 * [二〇二三](er-ling-er-san/README.md)
+  * [六月](er-ling-er-san/liu-yue/README.md)
+    * [06-19 MON](er-ling-er-san/liu-yue/06-19-mon.md)
   * [五月](er-ling-er-san/wu-yue/README.md)
     * [05-29 MON](er-ling-er-san/wu-yue/05-29-mon.md)
   * [一月](er-ling-er-san/yi-yue/README.md)
