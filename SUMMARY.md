@@ -3,6 +3,7 @@
 * [某傻子的一生](README.md)
 * [二〇二四](er-ling-er-si/README.md)
   * [四月](er-ling-er-si/si-yue/README.md)
+    * [04-10 WED](er-ling-er-si/si-yue/04-10-wed.md)
     * [04-05 FRI](er-ling-er-si/si-yue/04-05-fri.md)
     * [04-03 WED](er-ling-er-si/si-yue/04-03-wed.md)
 * [二〇二三](er-ling-er-san/README.md)
