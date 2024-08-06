@@ -4,6 +4,7 @@
 * [二〇二四](er-ling-er-si/README.md)
   * [八月](er-ling-er-si/ba-yue/README.md)
     * [08-06 TUE](er-ling-er-si/ba-yue/08-06-tue.md)
+    * [08-05 MON](er-ling-er-si/ba-yue/08-05-mon.md)
     * [08-02 FRI](er-ling-er-si/ba-yue/08-02-fri.md)
   * [四月](er-ling-er-si/si-yue/README.md)
     * [04-27 THU](er-ling-er-si/si-yue/04-27-thu.md)
