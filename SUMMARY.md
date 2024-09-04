@@ -3,6 +3,7 @@
 * [某傻子的一生](README.md)
 * [二〇二四](er-ling-er-si/README.md)
   * [八月](er-ling-er-si/ba-yue/README.md)
+    * [08-18 SUN](er-ling-er-si/ba-yue/08-18-sun.md)
     * [08-06 TUE](er-ling-er-si/ba-yue/08-06-tue.md)
     * [08-05 MON](er-ling-er-si/ba-yue/08-05-mon.md)
     * [08-02 FRI](er-ling-er-si/ba-yue/08-02-fri.md)
