@@ -4,7 +4,7 @@
 * [二〇二四](er-ling-er-si/README.md)
   * [十一月](er-ling-er-si/shi-yi-yue/README.md)
     * [11-13 WED](er-ling-er-si/shi-yi-yue/11-13-wed.md)
-    * [11-11 MON](er-ling-er-si/shi-yi-yue/11-11-mon.md)
+    * [11-11 MON](er-ling-er-si/shi-yi-yue/11-11-sun.md)
   * [十月](er-ling-er-si/shi-yue/README.md)
     * [10-13 SAT](er-ling-er-si/shi-yue/10-13-sat.md)
     * [10-03 THU](er-ling-er-si/shi-yue/10-03-thu.md)
